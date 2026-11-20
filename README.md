@@ -1,18 +1,139 @@
+
 <h1 align="center">Hi 👋, I'm Sahil Atram</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil071803&label=Profile%20views&color=0e75b6&style=flat" alt="sahil071803" /> </p>
+<h3 align="center">AI & Full Stack Developer | Building Modern Web Applications 🚀</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-nu-opal-68.vercel.app/](https://portfolio-website-nu-opal-68.vercel.app/)
-
-- 📫 How to reach me **sahilatram303@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-atram-71a2b9257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-atram-71a2b9257/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sahilatram303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sahilatram303" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/my9hixduwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/my9hixduwa/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil071803&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sahil071803?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Sahil Atram**, a Computer Science graduate from **Yeshwantrao Chavan College of Engineering (YCCE), Nagpur, India**.
+
+I'm an aspiring **AI & Full Stack Developer**, passionate about building modern web applications, exploring Artificial Intelligence, and developing practical solutions to real-world problems.
+
+- 🎓 Computer Science Graduate from YCCE, Nagpur.
+- 💻 Interested in Full Stack Development and AI Engineering.
+- 🚀 Hands-on project experience with React.js, Node.js and the MERN Stack.
+- 🌱 Currently exploring Python, FastAPI, AI Integration and Generative AI.
+- 🧩 Interested in problem-solving and continuous learning.
+- 🎯 Working towards becoming an AI Full Stack Product Engineer.
+
+- 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-website-nu-opal-68.vercel.app/)
+- 📫 **Email:** sahilatram303@gmail.com
+
+---
+
+## 🛠️ Languages and Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Programming Languages" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and Machine Learning" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 SyncMeet – Video Conferencing Application
+
+A real-time video conferencing platform designed to make online communication interactive and seamless.
+
+**Key Features:**
+- 📹 Real-time video communication using WebRTC.
+- 💬 Real-time chat and messaging.
+- 🏠 Room-based meetings with unique room codes.
+- 📁 File and image sharing.
+- 📝 Interactive whiteboard.
+- 👥 Online presence and participant management.
+- 🎨 Modern and responsive user interface.
+
+**Tech Stack:**
+
+React.js • Node.js • Express.js • MongoDB • Socket.IO • WebRTC
+
+🔗 [View Project on GitHub](https://github.com/Sahil071803/SyncMeet---Video-Confrencing-Application)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Oracle AI Foundation
+- Snowflake Generative AI – Coursera
+- IBM Python 101 for Data Science
+- Frontend Battle 2.0 – WebnD, IIT Bhubaneswar
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil071803&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil071803&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sahil071803&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahil-atram-71a2b9257/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sahil071803" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/my9hixduwa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sahilatram303" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning, and growing one project at a time."</i>
+  <br/><br/>
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
